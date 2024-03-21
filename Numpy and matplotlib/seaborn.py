@@ -240,11 +240,29 @@
 # plt.show()
 
 # Pie chart
-import matplotlib.pyplot as plt
-import numpy  as np
-x=np.array([34,8,4,1])
-plt.pie(x)
-plt.show()
+# import matplotlib.pyplot as plt
+# import numpy  as np
+# x=np.array([34,8,4,1])
+# plt.pie(x)
+# plt.show()
+
+# import matplotlib.pyplot as plt
+# import numpy  as np
+# x=np.array([34,32,30,31])
+# mylabels=["a","b","c","d"]
+# plt.pie(x,labels=mylabels,startangle=120)
+# plt.show()
+
+# import matplotlib.pyplot as plt
+# import numpy  as np
+# x=np.array([34,32,30,31])
+# mylabels=["a","b","c","d"]
+# myexplode=[0.5,0.1,0.1,0.1]
+# mycolor=["pink","green","purple","orange"]
+# plt.pie(x,labels=mylabels,explode=myexplode,shadow=True,colors=mycolor)
+# # plt.legend()
+# plt.legend(title="MY chart")
+# plt.show()
 
 
 
